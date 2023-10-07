@@ -26,7 +26,7 @@ const [contacts, setContacts] = useState([
 
     return(
         <div id="container">
-            <h1>Telephone Directory</h1>
+            <h1>TELEPHONE DIRECTORY</h1>
             <List contacts= {contacts}/>
             <Form addContact = {setContacts} contacts= {contacts}/>
         </div>

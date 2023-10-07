@@ -1,7 +1,8 @@
 #container{
     width: 400px;
-    background-color: rgb(22, 152, 172);
+    background-color: rgb(189, 232, 239);
     padding: 20px;
+    border-radius: 20px;
 }
 
 #container > h1{
@@ -29,7 +30,7 @@ ul,li{
 }
 
 .list > li{
-    background-color: rgb(184, 41, 58);
+    background-color: rgb(189, 50, 67);
     padding: 5px;
     margin-bottom: 2px;
     display: flex;
